@@ -1,0 +1,104 @@
+#
+# Corporate WebFilter
+#
+# Category : Social Networks
+# Version  : 1.0.0
+# Updated  : 2026-07-10
+#
+####################################################
+# META
+####################################################
+
+facebook.com
+facebook.net
+facebookmail.com
+fb.com
+fb.me
+fb.gg
+fb.watch
+fbcdn.net
+fbsbx.com
+messenger.com
+m.me
+
+instagram.com
+cdninstagram.com
+
+threads.net
+
+####################################################
+# X (Twitter)
+####################################################
+
+x.com
+twitter.com
+twimg.com
+t.co
+twttr.com
+twttr.net
+
+####################################################
+# TikTok
+####################################################
+
+tiktok.com
+tiktokv.com
+tiktokcdn.com
+tiktokcdn-us.com
+tiktokcdn-eu.com
+byteoversea.com
+ibyteimg.com
+ibytedtos.com
+
+####################################################
+# LinkedIn
+####################################################
+
+linkedin.com
+licdn.com
+
+####################################################
+# Pinterest
+####################################################
+
+pinterest.com
+pinimg.com
+
+####################################################
+# Reddit
+####################################################
+
+reddit.com
+redd.it
+redditmedia.com
+redditstatic.com
+
+####################################################
+# Snapchat
+####################################################
+
+snapchat.com
+sc-cdn.net
+
+####################################################
+# Discord
+####################################################
+
+discord.com
+discord.gg
+discord.media
+discordapp.com
+discordapp.net
+
+####################################################
+# Bluesky
+####################################################
+
+bsky.app
+
+####################################################
+# Mastodon
+####################################################
+
+joinmastodon.org
+mastodon.social
